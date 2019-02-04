@@ -3,12 +3,6 @@
   "description": "Extend Laravel 5's generators.",
   "keywords": ["laravel", "generators"],
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Sain",
-      "email": "sain2424@yandex.com"
-    }
-  ],
   "require": {
     "php": ">=5.4.0",
     "illuminate/support": "~5.0"
