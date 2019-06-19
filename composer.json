@@ -1,5 +1,5 @@
 {
-  "name": "sain2424/laravel-generators",
+  "name": "sain2424/generators",
   "description": "Extend Laravel 5's generators.",
   "keywords": ["laravel", "generators"],
   "license": "MIT",
