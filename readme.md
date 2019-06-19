@@ -29,7 +29,7 @@ You're all set. Run `php artisan` from the console, and you'll see the new comma
 ### Step 1: Install Through Composer
 
 ```
-composer require laracasts/generators --dev
+composer require sain2424/generators --dev
 ```
 
 ### Step 2: Add the Service Provider
